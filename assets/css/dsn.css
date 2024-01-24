@@ -1,0 +1,52 @@
+.fruits{
+    border: 3px solid rgba(255, 255, 255, 0.37);
+    background-color: #042f49;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+}
+.cars{
+    border: #67ffc1 solid 2px;
+    background-color: #af565c;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "DejaVu Sans";
+    font-size: 25px;
+}
+.FRUITS{
+    border: rgba(170, 246, 10, 0.71) solid 2px;
+    background-color: #b0670d;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
+.Fruits{
+    border: 3px solid rgba(255, 255, 255, 0.78);
+    background-color: rgb(220, 213, 71);
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+}
+body{
+    background-color: black;
+}
+#computers{
+    border: solid 4px cadetblue;
+    background-color:dodgerblue ;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "DejaVu Sans";
+}
+#footballers{
+    border: solid 6px whitesmoke;
+    background-color: burlywood;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}

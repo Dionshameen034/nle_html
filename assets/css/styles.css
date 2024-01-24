@@ -1,0 +1,30 @@
+table{
+    width: 100%;
+    font-family: "DejaVu Sans";
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid #04273a;
+    padding: 5px;
+}
+td{
+    color: #074848;
+    background-color: dimgray;
+}
+th{
+    color: rgba(255, 255, 255, 0.78);
+    background-color: rgb(175, 86, 92);
+}
+h2{
+    text-align: center;
+    font-family: "DejaVu Sans";
+    font-size: 50px;
+    color: #074848;
+}
+body{
+    background-image: url("../images/photo-1542396601-dca920ea2807.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
